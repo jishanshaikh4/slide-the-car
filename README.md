@@ -1,2 +1,2 @@
-# slide-the-car
-The world famous car/block puzzle game
+## Slide the Car
+The world famous car/block puzzle game build/config/layout files.
