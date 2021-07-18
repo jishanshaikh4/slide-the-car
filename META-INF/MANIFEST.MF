@@ -1,0 +1,777 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_65 (Oracle Corporation)
+
+Name: res/drawable/hrd2_b2.png
+SHA1-Digest: bq3ipRJICkdYVP1HzQGadZxf7Vo=
+
+Name: res/drawable-hdpi-v4/dm_featured_game.9.png
+SHA1-Digest: ik3FjtJzGHoxHwiUD+32DpHNnAM=
+
+Name: res/drawable/logout.png
+SHA1-Digest: GlcQoqw06xWbg1FPM3X2Oi+wAaQ=
+
+Name: res/drawable/theme1_game_run_bt_s.xml
+SHA1-Digest: hWOVTp0dNd1+oQdRMDaUrJd1YZw=
+
+Name: res/drawable/theme2_restart_s.xml
+SHA1-Digest: S49m6pbDJwbc0DIIVxx04QIJU9A=
+
+Name: res/drawable-xhdpi-v4/dm_black.png
+SHA1-Digest: xUeyR9Zbr08/nCLKEGu1h4OvgAQ=
+
+Name: res/drawable/theme1_car4.png
+SHA1-Digest: QyIBuUCDdumgQz7nxGBLqqtyYxs=
+
+Name: res/layout/layout_game_menu.xml
+SHA1-Digest: rQ8OY9MW19vakJ88caNvnQmznJ0=
+
+Name: res/drawable-xhdpi-v4/game_icon.png
+SHA1-Digest: KI2SJcy/V2DosnBDmZe0kGKl7tI=
+
+Name: res/drawable/theme4_stage_reduce_shine.png
+SHA1-Digest: bTuI2G+seGjpFrFhVx40+8TMG0s=
+
+Name: res/drawable/hint.png
+SHA1-Digest: j207jwkQzwDb8C1cUnxfkp4o4KI=
+
+Name: res/drawable/theme1_success.png
+SHA1-Digest: K6KRWAwzKq/yukXweLi7oodiMJM=
+
+Name: res/drawable/stage_reduce.xml
+SHA1-Digest: wd+BqgBAUuAfdKHANcbfa0YewRo=
+
+Name: res/drawable/unityads_icon_speaker_waves.xml
+SHA1-Digest: 6pL5IqJ7XlLpToCWv0qIrBDIxJ8=
+
+Name: res/drawable/lo.png
+SHA1-Digest: LdGYEh+fU0Z2Ud8SwzioSWt8pH4=
+
+Name: res/layout/dm_featureview.xml
+SHA1-Digest: LXtit4OQ2jB6Knz6sHXSbAeFGEo=
+
+Name: res/layout/theme4_game_run.xml
+SHA1-Digest: dYCe0tQB0b3uiweQW9SiskqK7Lc=
+
+Name: res/anim/reduce_fade_out_center.xml
+SHA1-Digest: Ad4vWUxK9BfZRUX9zq8QnuFJrIY=
+
+Name: res/drawable/theme4_game_run_restart.png
+SHA1-Digest: poy8OYyUHSwu+nn8+SxyJIg5oJI=
+
+Name: res/layout-mdpi-v4/dm_featureview_layout.xml
+SHA1-Digest: AD1/mz0NY0Vd+vMbmXEdyCpB+NY=
+
+Name: res/drawable-ldpi-v4/dm_featureview_layout_admob_bg.9.png
+SHA1-Digest: 2ybFspxZlsXX869RHbfNiyTYM9Q=
+
+Name: res/drawable/bb.png
+SHA1-Digest: rh6COuvh/EcNcyPcQrSTB1tA45c=
+
+Name: res/drawable/text.png
+SHA1-Digest: 7q/bHC3xCwKqSTvQHAt6IVpE/nM=
+
+Name: res/drawable/theme4_game_run_bottom.png
+SHA1-Digest: T0V3TC+P4jHbfs288TchPXRn2NI=
+
+Name: res/drawable/ss_3.png
+SHA1-Digest: I0uaJeUr+4hybBey0jW95sD6fd0=
+
+Name: res/drawable/theme2_car3.png
+SHA1-Digest: U+WV6en9cAbV8tfwkYgcsDq21/I=
+
+Name: res/drawable/theme1_car3.png
+SHA1-Digest: JgZ8BoQL/hNhxFpidayc03qa7s0=
+
+Name: res/layout-v17/unityads_button_audio_toggle.xml
+SHA1-Digest: OU+DoJ8xS8aR6IWfW1KLiJEdv+g=
+
+Name: res/drawable-xxhdpi-v4/dm_fullscreen_frame.png
+SHA1-Digest: 6joa/8TDseUpAuN39bnuJzA53Z4=
+
+Name: res/drawable/theme2_help.png
+SHA1-Digest: j4hJz+EJ/37JWcN4BMGnFQAw/7k=
+
+Name: res/drawable-hdpi-v4/game_icon.png
+SHA1-Digest: sUj8YBmCjbokp/g7m9U6x+SGNfs=
+
+Name: res/drawable/unityads_icon_speaker_base.xml
+SHA1-Digest: 6pL5IqJ7XlLpToCWv0qIrBDIxJ8=
+
+Name: res/drawable/theme2_restart_shine.png
+SHA1-Digest: oK9OcSVi920A2ewicGpmF6PnhoM=
+
+Name: res/drawable-hdpi-v4/border.xml
+SHA1-Digest: gs5SbdPQTlkAc3CHJ6FextxkTGQ=
+
+Name: res/drawable-mdpi-v4/dm_fullscreen_frame.png
+SHA1-Digest: 6joa/8TDseUpAuN39bnuJzA53Z4=
+
+Name: res/anim/slide_out_up.xml
+SHA1-Digest: ahqT/wf1QJogPtPmT9FthGokmcc=
+
+Name: res/raw/move_car.ogg
+SHA1-Digest: mj+ou+mwTRXiWSvlrexGhnM0tMM=
+
+Name: res/drawable-ldpi-v4/game_icon.png
+SHA1-Digest: g4PaK0L5mUTD/QTqMYWNFTUxCqE=
+
+Name: assets/impact.ttf
+SHA1-Digest: NuJ81e+60rzy2YmLWpMo22Kvc5U=
+
+Name: res/anim/shine.xml
+SHA1-Digest: lvafXYUZwa7A3iB1OlQo6EKDS10=
+
+Name: res/drawable-ldpi-v4/border.xml
+SHA1-Digest: gs5SbdPQTlkAc3CHJ6FextxkTGQ=
+
+Name: res/layout/options.xml
+SHA1-Digest: IoRAFq8Acg5N8KZ3T4kL8G744LI=
+
+Name: res/drawable/star.png
+SHA1-Digest: xp4URpVsHNsPFLykBE7HIhdgPLs=
+
+Name: res/drawable/theme1_game_run_bg.jpg
+SHA1-Digest: q7X7VwBD8Z/e3sp7sKyCIaelYrg=
+
+Name: res/drawable/game_menu_play.png
+SHA1-Digest: kut9dWXUwx4ZRdSRUJkuSeQLF6I=
+
+Name: res/layout/traffic_course.xml
+SHA1-Digest: G3qZ7bfu3Z/4MeFlOI5pc7cwxMM=
+
+Name: res/drawable-ldpi-v4/dm_fullscreen_frame.png
+SHA1-Digest: 6joa/8TDseUpAuN39bnuJzA53Z4=
+
+Name: res/layout/unityads_button_pause.xml
+SHA1-Digest: FG3ipJdJyWEDdNOYRnuYsf8JX0M=
+
+Name: res/drawable/theme3_stage_reduce_shine.png
+SHA1-Digest: ceLUmpje5nmooe6+SfAbW6cYqZ0=
+
+Name: res/drawable/theme3_game_run_backstep.png
+SHA1-Digest: NhRqVyMrKJ+4nUrfsdIRQjJ1glM=
+
+Name: res/drawable/theme1.png
+SHA1-Digest: 0VqmkdJC49gzY4GWCyHutDStm30=
+
+Name: res/drawable/theme2_back.png
+SHA1-Digest: BpPHN4eOcWIuy0Y0pFfPOtXnYRQ=
+
+Name: res/drawable/hrd1_a2.png
+SHA1-Digest: R99XxpgExMEhCbqf/ZaznmgavpQ=
+
+Name: res/drawable/theme3_game_menu_bt.png
+SHA1-Digest: Qwnn5Yzobd2uHMkqHMfSRjwMTf0=
+
+Name: res/layout/theme3_game_run.xml
+SHA1-Digest: 1HQoVgwEENPKXjm7wFWFEWMYo5U=
+
+Name: res/drawable-ldpi-v4/dm_featured_game_48.9.png
+SHA1-Digest: Iyw8C9c0OKzqlZfLOWp6LF7cm8A=
+
+Name: res/drawable/theme2.png
+SHA1-Digest: AvxgRPuj0Cm0F3mmApC0oQrfaxM=
+
+Name: res/anim/finger_horizontal.xml
+SHA1-Digest: rw8TrtifOn90BP40gGgcPWvH8rc=
+
+Name: res/layout-ldpi-v4/dm_featureview_layout.xml
+SHA1-Digest: AD1/mz0NY0Vd+vMbmXEdyCpB+NY=
+
+Name: res/drawable/theme3_game_run_help.png
+SHA1-Digest: DanPRuSW+dRVr+aAXLhOg6qZUlY=
+
+Name: res/drawable/theme4_game_menu_bt_shine.png
+SHA1-Digest: x8NEdYH24ltfcltEnQrZIZKgeMo=
+
+Name: res/drawable-mdpi-v4/dm_black.png
+SHA1-Digest: xUeyR9Zbr08/nCLKEGu1h4OvgAQ=
+
+Name: res/drawable/hrd1_a1.png
+SHA1-Digest: MmFgxoDpI1c1x5jAmHxkynwlEQY=
+
+Name: com/tapjoy/res/countdown_image.png
+SHA1-Digest: lMIloUGzrB+5DRkSZ7iqji0ud3o=
+
+Name: res/anim/mark.xml
+SHA1-Digest: QSG65NsqeE8pZBIeLIXhQT90jY0=
+
+Name: res/drawable/theme2_game_run_bt_shine.png
+SHA1-Digest: tGaMe+PpJ6cmgjnYBnk5C8pO7Mg=
+
+Name: res/drawable-hdpi-v4/dm_fullscreen_frame.png
+SHA1-Digest: 6joa/8TDseUpAuN39bnuJzA53Z4=
+
+Name: res/drawable/theme3_game_run_bg.jpg
+SHA1-Digest: Lk08k8urYSD9j9DG72kHixghsU0=
+
+Name: res/drawable/dm_featureview_layout_admob_arraw.png
+SHA1-Digest: jZYTBt/wOcRiMAQCSPklkUaB1qg=
+
+Name: res/drawable/theme2_car_play.png
+SHA1-Digest: HKgkXEentASOk3B1RD1sxuLu5zI=
+
+Name: res/interpolator/accelerate_quad.xml
+SHA1-Digest: xAuMJxFhVSe9lAKkmI5kCs42UEA=
+
+Name: res/drawable/game_icon.png
+SHA1-Digest: sUj8YBmCjbokp/g7m9U6x+SGNfs=
+
+Name: res/anim/slide_out_right.xml
+SHA1-Digest: PgLu2xn6AFapJhzpJVsX3QeLb3A=
+
+Name: res/drawable/more_game.png
+SHA1-Digest: SFA7PdCqU4bHU7WHsQAi8G0rQQ4=
+
+Name: res/drawable/dm_arrows.png
+SHA1-Digest: 1lILbh4E31B0XTlzoZaVx6I9lLg=
+
+Name: res/drawable/theme2_help_shine.png
+SHA1-Digest: 44PQBK3ol/anBGKaVRXsfh9Iqp4=
+
+Name: res/layout/stage_select_listview.xml
+SHA1-Digest: MT4D8pj1xSPyDv6VssBO2ukL850=
+
+Name: res/drawable/theme4_stage_reduce.png
+SHA1-Digest: YCJpn+p7itCdaiV/SFvflTI2Yyc=
+
+Name: res/drawable/rate.png
+SHA1-Digest: rIMFhD7Cnb29Qm1eD9GeBjyPmCo=
+
+Name: res/drawable/theme3_game_run_bt_shine.png
+SHA1-Digest: lF+SJVz44hejpkLZV3SHqBS8cvo=
+
+Name: res/anim/slide_out_left.xml
+SHA1-Digest: 6AI2rfRRQs1CAmwMGY1es4tuFuk=
+
+Name: res/drawable-xhdpi-v4/dm_featureview_layout_admob_arraw.png
+SHA1-Digest: jZYTBt/wOcRiMAQCSPklkUaB1qg=
+
+Name: res/drawable/theme4_game_run_car_area.png
+SHA1-Digest: Wl3RyVryXmrmqpLyDLAUqEUF15s=
+
+Name: res/drawable-ldpi-v4/dm_featureview_layout_admob_arraw.png
+SHA1-Digest: jZYTBt/wOcRiMAQCSPklkUaB1qg=
+
+Name: res/drawable-xhdpi-v4/dm_arrows.png
+SHA1-Digest: 1lILbh4E31B0XTlzoZaVx6I9lLg=
+
+Name: res/drawable/star1.png
+SHA1-Digest: VrzT4IUFfx2OUTqdT8Neb3T/ESA=
+
+Name: res/drawable/theme2_parse.png
+SHA1-Digest: NNcM92qzgQECEh9uorX+AR7xUbw=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: +J1hV0GNN1QTp9WrT7yWZqvT3GI=
+
+Name: res/drawable/theme3_stage_reduce.png
+SHA1-Digest: UhCgb++I25+SDEy8hyQaGJNlwyc=
+
+Name: res/drawable/loading.png
+SHA1-Digest: ce3mPgMwFhbAWVNui3n4R+eJics=
+
+Name: res/drawable/theme4_success.png
+SHA1-Digest: 5jdVX21ufX70ocNL0a5X66+RMYU=
+
+Name: res/drawable-xhdpi-v4/border.xml
+SHA1-Digest: gs5SbdPQTlkAc3CHJ6FextxkTGQ=
+
+Name: res/drawable/theme1_game_run_bt_shine.png
+SHA1-Digest: bmLTQCj+hvlGBNF0fv9UBiS5ipc=
+
+Name: res/interpolator/decelerate_quad.xml
+SHA1-Digest: mm115dAvY/GqAWmXxgXQQthkBMA=
+
+Name: res/drawable/theme2_game_run_bg.jpg
+SHA1-Digest: zZDNlsBvgVhPOvW9pCBLlCVUK4E=
+
+Name: res/anim/slide_in_right.xml
+SHA1-Digest: azc2CVordzqWXE97R9HfAvJ+HMc=
+
+Name: res/drawable/dm_fullscreen_frame.png
+SHA1-Digest: 6joa/8TDseUpAuN39bnuJzA53Z4=
+
+Name: res/drawable/unityads_background_button_pause.xml
+SHA1-Digest: vch7M0Q7Mkqmq9BunJypY3le/tQ=
+
+Name: res/drawable/theme2_game_run_title.png
+SHA1-Digest: CkV8+7LUkyB2Fm3zw7Ft+lwNGFE=
+
+Name: res/layout/unityads_view_video_play.xml
+SHA1-Digest: myHSDyaZdQXSYgB48cosQDON83o=
+
+Name: res/drawable/theme4_game_run_bt.png
+SHA1-Digest: 0bwUxWeV4j3tz3nWYTWc3W0Qi0I=
+
+Name: res/drawable/theme2_game_menu_bt.png
+SHA1-Digest: vV6ArSLi9UVpYgqqDTJCxIx7CIk=
+
+Name: res/drawable/theme2_game_menu_bt_shine.png
+SHA1-Digest: 9TqtWRtOPXJQe0q/u2Uz9byhIC4=
+
+Name: res/drawable/theme4_game_menu_bt.png
+SHA1-Digest: OmQghhn8/ZNdkKb0P5CBK17rMf4=
+
+Name: res/anim/loading_icon_rotate.xml
+SHA1-Digest: 9z43kpx0V87bdQQwgdW3IZ4I4r8=
+
+Name: res/drawable/theme3_game_run_car_area.png
+SHA1-Digest: vE8jtP/pDYZyhLD9X8INYIuj6Ww=
+
+Name: res/drawable/theme3_game_run_parse.png
+SHA1-Digest: Gbha8nau9JoHRj+17KgwEjXMjyY=
+
+Name: res/layout-v17/unityads_view_video_play.xml
+SHA1-Digest: qOHurx5S1ZIO1/lvnWTcjAFiKvk=
+
+Name: res/drawable/theme4_car5.png
+SHA1-Digest: 62JOijUEAeqHXTNUI6MitI5hkOk=
+
+Name: res/drawable-mdpi-v4/dm_featured_game.9.png
+SHA1-Digest: FEzrj72gX38BNu3Uv3bMClyu9dE=
+
+Name: res/drawable/theme3_game_run_bottom.png
+SHA1-Digest: ff8cUebcmKNuHo64kRAzvN2zcRE=
+
+Name: res/drawable-hdpi-v4/dm_arrows.png
+SHA1-Digest: 1lILbh4E31B0XTlzoZaVx6I9lLg=
+
+Name: res/drawable-xxhdpi-v4/border.xml
+SHA1-Digest: gs5SbdPQTlkAc3CHJ6FextxkTGQ=
+
+Name: res/drawable-xxhdpi-v4/dm_featured_game.9.png
+SHA1-Digest: FEzrj72gX38BNu3Uv3bMClyu9dE=
+
+Name: res/drawable/theme3_car2.png
+SHA1-Digest: eqfTII8X72NQowjJC9azrJawzVk=
+
+Name: js/closebutton.html
+SHA1-Digest: HNKUUr65xvF43DhYePNX2XJIC0A=
+
+Name: res/drawable-mdpi-v4/border.xml
+SHA1-Digest: gs5SbdPQTlkAc3CHJ6FextxkTGQ=
+
+Name: res/anim/black.xml
+SHA1-Digest: ZVxVJ38uGYegBiwjv404crpO/bM=
+
+Name: res/drawable/login_button.xml
+SHA1-Digest: /4PTLZchZE4smU87bMHomAgmIS0=
+
+Name: res/drawable/alarm.png
+SHA1-Digest: jQkfme3bSlTahg0fWyXZlQ1lHCc=
+
+Name: res/anim/finger_down.xml
+SHA1-Digest: 7EmwJM7fx5NGFwwidrg3yKQpGAg=
+
+Name: res/drawable/theme1_game_run_bt.png
+SHA1-Digest: h5j0dVWhQbP7uvbJZ5vQ0JCVF0o=
+
+Name: res/drawable/login_down.png
+SHA1-Digest: TUQm+vAxyB7JvgH8ril2h3k8wWw=
+
+Name: res/drawable/theme3_car3.png
+SHA1-Digest: Ssye9p/xvKwCNR75NHWN+mWtHB4=
+
+Name: res/drawable/theme2_parse_shine.png
+SHA1-Digest: NPcMaS3oDN/GTsYLJfm9HBaJtFs=
+
+Name: res/drawable/border.xml
+SHA1-Digest: gs5SbdPQTlkAc3CHJ6FextxkTGQ=
+
+Name: res/drawable/hrd2_b1.png
+SHA1-Digest: OyfKfy25kmdImPP3JDhNdZMOCF0=
+
+Name: res/drawable/theme1_game_menu_bt_shine.png
+SHA1-Digest: CWz7qak9SodvszhiodEFs6LAWJo=
+
+Name: res/drawable-hdpi-v4/dm_featured_game_48.9.png
+SHA1-Digest: Iyw8C9c0OKzqlZfLOWp6LF7cm8A=
+
+Name: res/drawable/theme4_car2.png
+SHA1-Digest: h0/O+Z21+x3/ijvGrPU0kqTlFks=
+
+Name: res/drawable-xxhdpi-v4/dm_arrows.png
+SHA1-Digest: 1lILbh4E31B0XTlzoZaVx6I9lLg=
+
+Name: res/drawable/reward_video_icon_green.png
+SHA1-Digest: 6Y+omF4l1P3eMfLTDozQq+glDDc=
+
+Name: res/drawable/theme1_game_run_bottom.png
+SHA1-Digest: u7AzS9ZpTHkiP5Uevfk4etUkD8A=
+
+Name: res/drawable/theme3_game_run_bt.png
+SHA1-Digest: t2wA1ImCDoHByOhjr9REa8eErp4=
+
+Name: res/layout/unityads_view_video_paused.xml
+SHA1-Digest: u2jRQYW/TIEzE5VaShPaBAtmN2Y=
+
+Name: res/drawable/reward_video_icon_grey.png
+SHA1-Digest: 4tYXFArLp4VeNrS/xvBKFyARkx0=
+
+Name: res/layout/unityads_button_audio_toggle.xml
+SHA1-Digest: bKzcsYYg4reo/2oPYrZCiIocL2E=
+
+Name: res/layout/stage_select.xml
+SHA1-Digest: u6bg2rfayhPkb6qH1FYnhk2vl/U=
+
+Name: res/raw/move_stone.ogg
+SHA1-Digest: KoO2NQlase0JDXjR7wy7SREQstA=
+
+Name: res/drawable/theme2_success.png
+SHA1-Digest: 8P0/uG4oSz9qewGrv2aFFHLTkm4=
+
+Name: res/layout/dm_featureview_layout.xml
+SHA1-Digest: AD1/mz0NY0Vd+vMbmXEdyCpB+NY=
+
+Name: res/drawable/theme4_game_run_backstep.png
+SHA1-Digest: uVwEtwdWhdrVAz4kbcdylcAvVh4=
+
+Name: res/drawable-xxhdpi-v4/dm_featured_game_48.9.png
+SHA1-Digest: Iyw8C9c0OKzqlZfLOWp6LF7cm8A=
+
+Name: res/anim/slide_in_left.xml
+SHA1-Digest: tyOhoqQk1sKJma9IuOtGR8w6kzo=
+
+Name: res/drawable/theme2_parse_s.xml
+SHA1-Digest: Dd8Fug9z/BuJnxXtGjRdB6NqMNk=
+
+Name: res/drawable/theme1_car_play.png
+SHA1-Digest: nxy8WjVP3K9oW5m3yn2UCOq03BM=
+
+Name: res/drawable/theme2_restart.png
+SHA1-Digest: QCuAAcF/Z2ipWpVl3gznwtKkbhs=
+
+Name: res/drawable/buy.png
+SHA1-Digest: L96wb0zi/SnRoDRP3S99NflwKRU=
+
+Name: res/drawable/dm_black.png
+SHA1-Digest: xUeyR9Zbr08/nCLKEGu1h4OvgAQ=
+
+Name: res/drawable/theme3_game_run_title.png
+SHA1-Digest: BE/xNyhHYEnDJldgAhQVtpdiGuA=
+
+Name: res/drawable-hdpi-v4/dm_featureview_layout_admob_bg.9.png
+SHA1-Digest: 2ybFspxZlsXX869RHbfNiyTYM9Q=
+
+Name: res/drawable/theme1_game_run_backstep.png
+SHA1-Digest: wOWPmVAaZMLJYkukm9AG6snGQ84=
+
+Name: res/drawable-hdpi-v4/dm_black.png
+SHA1-Digest: xUeyR9Zbr08/nCLKEGu1h4OvgAQ=
+
+Name: res/drawable/theme1_game_run_help.png
+SHA1-Digest: VT0CAbCiF5IrKlNyJjIucarj7g0=
+
+Name: res/drawable/theme1_game_run_parse.png
+SHA1-Digest: OQpbnnw8IcFF4Mu32PctsGAMeZ8=
+
+Name: res/drawable/game_menu_options.png
+SHA1-Digest: FtIpNfy8KN38yS6qOzV5AdYyBFQ=
+
+Name: res/drawable/unityads_icon_play.xml
+SHA1-Digest: BHhEDGjJGMi7EtpYMS+GY+7Ggew=
+
+Name: res/drawable/theme1_car5.png
+SHA1-Digest: EyFx3Qw+gppZI8gOHFUYnKB51t4=
+
+Name: res/drawable/theme.png
+SHA1-Digest: yHzE1BsmhHD7AXc1Fwou3ZORdkM=
+
+Name: res/drawable/game_menu_bg.png
+SHA1-Digest: MsHk4XRXJMg1WMpoduUMS9qxCfY=
+
+Name: res/drawable/theme4_game_run_title.jpg
+SHA1-Digest: Jo43idh1OFGeKBCW0wWLtT+JKpk=
+
+Name: resources.arsc
+SHA1-Digest: kTlAjcwxERn3bgqSFL8/z2GlyqQ=
+
+Name: res/drawable-xxhdpi-v4/dm_featureview_layout_admob_bg.9.png
+SHA1-Digest: 2ybFspxZlsXX869RHbfNiyTYM9Q=
+
+Name: res/drawable/theme1_car6.png
+SHA1-Digest: WTPJzKnQAAf+otnQ2V9rqEeLzxI=
+
+Name: res/layout/theme1_game_run.xml
+SHA1-Digest: jOZiJFmTYOS0FkWp095jFgMuGg0=
+
+Name: res/drawable-xxhdpi-v4/dm_black.png
+SHA1-Digest: xUeyR9Zbr08/nCLKEGu1h4OvgAQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: aNEUKLQ5Mtqv9uTLFCrGUW8ITsU=
+
+Name: res/drawable/dm_featureview_layout_admob_bg.9.png
+SHA1-Digest: 2ybFspxZlsXX869RHbfNiyTYM9Q=
+
+Name: res/drawable/theme2_game_run_bt.png
+SHA1-Digest: Kvi634Qx1840nUmeoV/dlGZ+bYA=
+
+Name: build-data.properties
+SHA1-Digest: 5cYAZbJqAbXYXq/t11bB6UBHB5A=
+
+Name: res/drawable-mdpi-v4/dm_featureview_layout_admob_arraw.png
+SHA1-Digest: jZYTBt/wOcRiMAQCSPklkUaB1qg=
+
+Name: res/drawable/theme2_game_run_car_area.png
+SHA1-Digest: gQBO5h5a1s6ht+mdoGbTFDj2XNs=
+
+Name: res/drawable/theme4_car4.png
+SHA1-Digest: nOycN+nQKzOh8QcR91seM1Xqsmw=
+
+Name: res/anim/animhelp.xml
+SHA1-Digest: hS3OysLAiG1WCus7JiJtZZNu7ls=
+
+Name: protobuf.meta
+SHA1-Digest: TiH2vrHcxqd8kqIwNHBGR8EYV6U=
+
+Name: assets/BRLNSB.TTF
+SHA1-Digest: YM3GC/mkU6Z4n3NY6mBPm5LfBiQ=
+
+Name: res/drawable-ldpi-v4/dm_black.png
+SHA1-Digest: xUeyR9Zbr08/nCLKEGu1h4OvgAQ=
+
+Name: res/drawable-hdpi-v4/dm_featureview_layout_admob_arraw.png
+SHA1-Digest: jZYTBt/wOcRiMAQCSPklkUaB1qg=
+
+Name: res/drawable/theme3.png
+SHA1-Digest: GYJpsgVb9Oyz+VYjUSxNYXUTeT4=
+
+Name: classes.dex
+SHA1-Digest: 3oULCvqtsIjP4Hdy1Bjp0EgN5Bo=
+
+Name: res/drawable/theme4_car3.png
+SHA1-Digest: tEihThBsC8l60HY+F25skP0OfmE=
+
+Name: res/drawable/theme1_game_run_car_area.png
+SHA1-Digest: zeUF1q0nY5PsZ5P+7AyjHL96q4o=
+
+Name: res/drawable/icon.png
+SHA1-Digest: +J1hV0GNN1QTp9WrT7yWZqvT3GI=
+
+Name: res/drawable/ss_1.png
+SHA1-Digest: xuvp/MIERlH432rOCaj+0xSbGBY=
+
+Name: res/drawable-xhdpi-v4/dm_fullscreen_frame.png
+SHA1-Digest: 6joa/8TDseUpAuN39bnuJzA53Z4=
+
+Name: res/drawable/theme2_game_run_bottom.png
+SHA1-Digest: Vy5AF3q3U/66k7+jZrZmumZ5Egs=
+
+Name: res/drawable/theme4_game_run_parse.png
+SHA1-Digest: dUeaFPf5OjDdY/+J4E+rOQl69MU=
+
+Name: res/drawable/unityads_icon_speaker_triangle.xml
+SHA1-Digest: yJJC19gClIu9j5hjabmjAMpxjBY=
+
+Name: res/drawable/theme1_game_run_title.png
+SHA1-Digest: 1tiBhPMjXRMbO/N2/f03beIiQZo=
+
+Name: res/anim/finger_up.xml
+SHA1-Digest: yoRjjYTz/F56FZ/BcRkRaMYAFmM=
+
+Name: res/drawable/store.png
+SHA1-Digest: egcGoziyAoBjVbmqfznDzD4/T1A=
+
+Name: res/drawable/theme1_car2.png
+SHA1-Digest: EITl1kCCSVGwmY8tsiBhYjr0pI8=
+
+Name: res/layout-xhdpi-v4/dm_featureview_layout.xml
+SHA1-Digest: AD1/mz0NY0Vd+vMbmXEdyCpB+NY=
+
+Name: res/layout/theme2_game_run.xml
+SHA1-Digest: d+JFEfhSzZNOTya7umddtFrp45k=
+
+Name: com/tapjoy/res/tj_close_button.png
+SHA1-Digest: m97VL++AjPPMWodt3CJ38F4XyBY=
+
+Name: res/drawable-mdpi-v4/dm_featureview_layout_admob_bg.9.png
+SHA1-Digest: 2ybFspxZlsXX869RHbfNiyTYM9Q=
+
+Name: res/layout/dm_fullscreen_small.xml
+SHA1-Digest: a4H/RPn4v8TqjuDl1v138CPLcHo=
+
+Name: res/drawable/moregames.png
+SHA1-Digest: NO9d4LJ9onLR9j2NgImih2BnR/A=
+
+Name: assets/BAUHS93.TTF
+SHA1-Digest: +wckIERN+t3rBTj89WCLoOl0IX4=
+
+Name: js/mraid.js
+SHA1-Digest: fJRITYOyHYdamhEtzTgzGT6+74I=
+
+Name: res/drawable/theme4.png
+SHA1-Digest: yaimWT5/YST9Q2Dqp01CARVqQxM=
+
+Name: res/interpolator/decelerate_quint.xml
+SHA1-Digest: EkwXOGLoEvrsAgRBVa93vYI+xaw=
+
+Name: res/drawable-xhdpi-v4/dm_featureview_layout_admob_bg.9.png
+SHA1-Digest: 2ybFspxZlsXX869RHbfNiyTYM9Q=
+
+Name: res/raw/theme_music.ogg
+SHA1-Digest: yKuyc+VFXU0lq6cnS9FfcF9f/QU=
+
+Name: res/raw/button1.ogg
+SHA1-Digest: yOR+FRH7Wmb2Klgl0iMXNgtgJhw=
+
+Name: res/drawable-mdpi-v4/dm_arrows.png
+SHA1-Digest: 1lILbh4E31B0XTlzoZaVx6I9lLg=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: qleKQAEaDWtvjqExBwBTQxblfek=
+
+Name: res/drawable-xhdpi-v4/dm_featured_game.9.png
+SHA1-Digest: FEzrj72gX38BNu3Uv3bMClyu9dE=
+
+Name: res/drawable/theme1_stage_reduce_shine.png
+SHA1-Digest: 9kd2FZDXlvYbBwnkKDpoIAMQCfA=
+
+Name: res/drawable/help.png
+SHA1-Digest: Ff/xZzu4dTmhcB/Bu3AlFZnsIh4=
+
+Name: res/layout/main.xml
+SHA1-Digest: OVlNjD26Zl4jhlN4nPMxgt3OFZY=
+
+Name: res/drawable/line.png
+SHA1-Digest: L9b4ZnX/b4RHY4zEcq9uXC6Yfzg=
+
+Name: res/drawable/theme_boder.png
+SHA1-Digest: Qb9iRjtk1uWs1+YkAQMy0rd++kI=
+
+Name: res/drawable/theme2_back_shine.png
+SHA1-Digest: 6uJz+poI8ZYYLTJMfM9dAy64WCk=
+
+Name: res/drawable/theme1_game_run_restart.png
+SHA1-Digest: 218kbd3Ws3wIqSCPAk6cmc6fv0g=
+
+Name: res/drawable/theme4_game_run_bg.jpg
+SHA1-Digest: 0HKzUnJ6Gx+jcRMPStGum/eilnI=
+
+Name: res/drawable/circle.png
+SHA1-Digest: SHMPa9CnwT/grBOAV3L9y/LHVXY=
+
+Name: res/drawable-xxhdpi-v4/dm_featureview_layout_admob_arraw.png
+SHA1-Digest: jZYTBt/wOcRiMAQCSPklkUaB1qg=
+
+Name: res/drawable/theme2_back_s.xml
+SHA1-Digest: RNw53Ur3e75bK4nNKIQDbb1yWL8=
+
+Name: res/drawable/theme3_game_run_restart.png
+SHA1-Digest: uJvFE6g+RStq6b8DPBl+Jtr2EpY=
+
+Name: res/drawable/login.png
+SHA1-Digest: W459H4+M4h1vf6rK1Zo4JD21MmI=
+
+Name: res/drawable/theme2_game_run_bt_s.xml
+SHA1-Digest: vUHUgITpuZqPi5nxcJxdpzKguhc=
+
+Name: res/layout-v17/unityads_button_pause.xml
+SHA1-Digest: pgRl0281RZ9GB2WLJtZTYRFQqDE=
+
+Name: res/layout/dm_featureview_layout_small.xml
+SHA1-Digest: llyN3BN20hjkG0MZRPkse1M9F1A=
+
+Name: res/drawable/logout_down.png
+SHA1-Digest: 6zTK3IatnlWVfqO8vMHmXlE9Auk=
+
+Name: res/drawable/theme1_stage_reduce.png
+SHA1-Digest: NxVPRSbYpNz2WF4NVYMKDflGQDs=
+
+Name: res/drawable/theme4_game_run_bt_s.xml
+SHA1-Digest: trxY+LIOfTYaodFJhroAtbMQHls=
+
+Name: res/anim/slide_in_down.xml
+SHA1-Digest: jl9aAAkax401WC4lNLYXxiVhFaA=
+
+Name: res/drawable-ldpi-v4/dm_arrows.png
+SHA1-Digest: 1lILbh4E31B0XTlzoZaVx6I9lLg=
+
+Name: assets/BRLNSDB.TTF
+SHA1-Digest: mSJ4F6mcvjZ3PnZ/y1iUSJ6OOWs=
+
+Name: res/drawable/logout_button.xml
+SHA1-Digest: oqTBFMcMWTYWai0XpjASFrWzC74=
+
+Name: res/drawable/theme2_car2.png
+SHA1-Digest: LbGHC7N0/0SFllSUPpvX57rAS7g=
+
+Name: res/drawable/theme4_car_play.png
+SHA1-Digest: wpaw4DFW/NEKuFG0XEEkLeGFpvI=
+
+Name: res/drawable/theme3_game_menu_bt_shine.png
+SHA1-Digest: LQLGeSPDUSWOLKu5LF0AZhDBBzc=
+
+Name: res/drawable/game_menu_bt.xml
+SHA1-Digest: yyTt40k0hh7VKI/KPh4fDy9nKxs=
+
+Name: res/drawable-ldpi-v4/dm_featured_game.9.png
+SHA1-Digest: t1FLKXQZzljoUQtILUlzCXTHWwk=
+
+Name: res/drawable/theme3_success.png
+SHA1-Digest: tsEqX6k8AXT/pwIwl1Cz68ozFuM=
+
+Name: res/anim/grow_fade_in_center.xml
+SHA1-Digest: RgpRS/b0ndPPImKx4jYI177zAZ8=
+
+Name: res/drawable/finger.png
+SHA1-Digest: wCo3wu2N3OSd96LCxXcxYQiydN0=
+
+Name: res/raw/suc1.ogg
+SHA1-Digest: tSJ5ja5/zGn2R+1HDwmuoNHRHDU=
+
+Name: res/drawable-mdpi-v4/game_icon.png
+SHA1-Digest: BSqDVnRLIdTwlo0655h48OLawR0=
+
+Name: res/drawable/theme4_game_run_bt_shine.png
+SHA1-Digest: pH3qzer5kaLeD/Yve8YJaJOKphg=
+
+Name: res/drawable/dm_featured_game_48.9.png
+SHA1-Digest: Iyw8C9c0OKzqlZfLOWp6LF7cm8A=
+
+Name: res/layout-hdpi-v4/dm_featureview_layout.xml
+SHA1-Digest: AD1/mz0NY0Vd+vMbmXEdyCpB+NY=
+
+Name: res/drawable-xhdpi-v4/dm_featured_game_48.9.png
+SHA1-Digest: Iyw8C9c0OKzqlZfLOWp6LF7cm8A=
+
+Name: res/drawable/theme2_stage_reduce_shine.png
+SHA1-Digest: j207jwkQzwDb8C1cUnxfkp4o4KI=
+
+Name: res/drawable/theme1_game_menu_bt.png
+SHA1-Digest: 1pk+UTRZT8UlmEiXYXkI5mgeiuQ=
+
+Name: res/drawable-xxhdpi-v4/game_icon.png
+SHA1-Digest: hVNgi3VWik1dnP2w6KgBbTwasyQ=
+
+Name: res/interpolator/decelerate_cubic.xml
+SHA1-Digest: 8OcDlxcIKCSgwcRfzYnDcqdsL2I=
+
+Name: res/drawable/theme4_game_run_help.png
+SHA1-Digest: aDryDYs0PAd5cl02b5w7qOWoAXg=
+
+Name: res/drawable-mdpi-v4/dm_featured_game_48.9.png
+SHA1-Digest: Iyw8C9c0OKzqlZfLOWp6LF7cm8A=
+
+Name: res/drawable/dm_featured_game.9.png
+SHA1-Digest: FEzrj72gX38BNu3Uv3bMClyu9dE=
+
+Name: res/anim/dm_promo_fade_in.xml
+SHA1-Digest: zCTeB4a+6Wa97PVXv867HZe7cUo=
+
+Name: res/drawable/theme3_car_play.png
+SHA1-Digest: VnQYodta+F1CHiJjnCn5pKELQC8=
+
+Name: res/drawable/music.png
+SHA1-Digest: tD6dFHRj6ov6oa+RSMQWFtfbK8k=
+
+Name: res/drawable/theme3_game_run_bt_s.xml
+SHA1-Digest: 4zw1Tjy3rCGrgR1IFwvBS4sZFDs=
+
+Name: res/drawable/theme2_stage_reduce.png
+SHA1-Digest: rF8D+Ko/mLlXZJBKC+hNLTDnXIo=
+
+Name: res/raw/button.ogg
+SHA1-Digest: 1q3sDprkVjVYBTFPL6qzl3BCWgw=
+
